@@ -1,4 +1,6 @@
 # 💫 About Me:
+![Hola soy Richard]([URL_de_la_imagen](https://media.licdn.com/dms/image/v2/D4E16AQGxLpvk7nhHEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721330651957?e=1732147200&v=beta&t=Dtuei8U0fCk-MI-uUC5DvGCPqq1xE7aD9ktE8k6JkLM))
+
 ¡Hola! Soy Ricardo, desarrollador Android especializado en Kotlin. Me apasiona crear aplicaciones móviles eficientes y con una excelente experiencia de usuario, aplicando siempre las mejores prácticas de desarrollo y arquitectura para asegurar código limpio, escalable y mantenible. Tengo una sólida base en la programación orientada a objetos (POO) y me enfoco en seguir principios de Clean Architecture para garantizar que mis proyectos sean fáciles de mantener y evolucionar.<br><br>Cuando no estoy programando, disfruto compartiendo ideas y aprendiendo sobre las últimas novedades en el desarrollo móvil. ¡Conectemos y colaboremos!
 
 
