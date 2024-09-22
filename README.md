@@ -1,4 +1,4 @@
-# 💫 Hola soy Richard:
+# 💫 Hola soy Ricardo !!:
 
 ![Imagen de fondo](https://media.licdn.com/dms/image/v2/D4E16AQGxLpvk7nhHEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721330651957?e=1732147200&v=beta&t=Dtuei8U0fCk-MI-uUC5DvGCPqq1xE7aD9ktE8k6JkLM)
 
