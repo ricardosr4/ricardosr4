@@ -1,6 +1,6 @@
 # 💫 Hola soy Ricardo:
 
-![Imagen de fondo](https://img.pikbest.com/backgrounds/20190407/blue-technology-digital-line-beam-background-banner_1828801.jpg!sw800)
+![Imagen de fondo](https://img.magnific.com/foto-gratis/mujer-disfrutando-auricular-vr_53876-129655.jpg?semt=ais_hybrid&w=740&q=80)
 
 
 ¡Hola! Soy Ricardo, desarrollador Android especializado en Kotlin. Me apasiona crear aplicaciones móviles eficientes y con una excelente experiencia de usuario, aplicando siempre las mejores prácticas de desarrollo y arquitectura para asegurar código limpio, escalable y mantenible. Tengo una sólida base en la programación orientada a objetos (POO) y me enfoco en seguir principios de Clean Architecture para garantizar que mis proyectos sean fáciles de mantener y evolucionar.<br><br>Cuando no estoy programando, disfruto compartiendo ideas y aprendiendo sobre las últimas novedades en el desarrollo móvil. ¡Conectemos y colaboremos!
