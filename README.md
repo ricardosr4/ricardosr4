@@ -1,133 +1,59 @@
-<h1 align="center">Hola, Soy RickDev</h1>
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://rickdev-90632.web.app/">Ricardo</a> 👋</h1>
+</div>
 
-<p align="center">
-  <strong>Android Developer</strong> · Kotlin · Jetpack Compose · Clean Architecture<br>
-  Santiago, Chile
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=200&section=header&text=Ricardo%20Soto&fontSize=50&fontColor=ffffff&desc=Android%20Developer%20|%20Kotlin%20|%20Jetpack%20Compose&descSize=18&descAlignY=68">
 
-<p align="center">
-  <a href="https://rickdev-90632.web.app/"><img src="https://img.shields.io/badge/Portafolio-0F6E56?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"></a>
-  <a href="https://www.linkedin.com/in/ricardo-soto-ramirez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ricardosr4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/ricardosr4?style=social)](https://github.com/ricardosr4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardo--soto--ramirez-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ricardo-soto-ramirez)
+[![Portafolio](https://img.shields.io/badge/Portafolio-rickdev-informational?style=social&logo=googlechrome)](https://rickdev-90632.web.app/)
+[![Email](https://img.shields.io/badge/Email-ricardosr4-red?style=social&logo=gmail)](mailto:ricardosr4@gmail.com)
 
----
+## Sobre mi
 
-Desarrollador Android con más de 3 años construyendo aplicaciones nativas en Kotlin, entre XML y Jetpack Compose. He trabajado en productos comerciales en producción: una app de validación QR para eventos masivos que lideré desde la primera línea de código, tótems de autoatención en modo kiosko, y el mantenimiento de una app de estacionamientos con usuarios reales todos los días.
-
-Me interesa el lado menos visible del oficio: arquitectura que aguante, código que otro pueda tomar sin maldecir, y flujos que no hagan esperar al usuario.
+- 📲 Android Developer nativo · +3 años en Kotlin
+- 🏗️ Clean Architecture, MVVM, MVI y SOLID en proyectos reales
+- 🎟️ Lideré desde cero una app de validación QR para eventos masivos en [TickD](#experiencia)
+- 🅿️ Mantuve en producción la app de [Parking S.A.](#experiencia) durante casi 3 años
+- 🤝 Colaboré en [RefactoringLifeSocial](https://github.com/RefactoringLifeSocial/android), la plataforma de mascotas
+- 🧑‍💻 Hoy trabajo como freelance construyendo apps y soluciones para pymes
+- 🇨🇱 Santiago, Chile
+<br>
 
 ## Experiencia
 
-<details open>
-<summary><strong>Freelance</strong> — Android Developer · Diciembre 2025 – Presente</summary>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3 align="center">Freelance</h3>
+        <p align="center"><img src="https://img.shields.io/badge/Dic%202025%20--%20Presente-3DDC84?style=for-the-badge&logoColor=black"></p>
+        <p align="center">Apps Android nativas desde cero, soporte y optimización de apps existentes, y soluciones <strong>SaaS</strong> para digitalizar procesos de pymes y emprendedores.</p>
+      </td>
+      <td width="33%" align="center">
+        <h3 align="center">TickD</h3>
+        <p align="center"><img src="https://img.shields.io/badge/May%20--%20Nov%202025-7F52FF?style=for-the-badge&logoColor=white"></p>
+        <p align="center">Lideré la app de <strong>validación QR</strong> desde la primera línea. Sistema de <em>anillos de validación</em> para eliminar filas, y tótems de autoatención en <strong>modo kiosko</strong>.</p>
+      </td>
+      <td width="33%" align="center">
+        <h3 align="center">Parking S.A.</h3>
+        <p align="center"><img src="https://img.shields.io/badge/Sep%202022%20--%20May%202025-00AFFF?style=for-the-badge&logoColor=black"></p>
+        <p align="center">App en producción con usuarios diarios. Migré <strong>código legado a SOLID</strong>, actualicé el SDK y reduje la tasa de crashes.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
-
-- Desarrollo de apps Android nativas desde cero, definiendo arquitectura e implementación según el requerimiento de cada cliente.
-- Soporte, mantenimiento y optimización de aplicaciones existentes: estabilidad, rendimiento y experiencia de usuario.
-- Diseño y desarrollo de landing pages y sitios web personalizados.
-- Soluciones SaaS para digitalizar procesos de pymes y emprendedores.
-- Levantamiento de requerimientos directo con el cliente y entrega alineada al objetivo de negocio.
-
-</details>
-
-<details>
-<summary><strong>TickD — Ticketera Digital</strong> — Android Developer · Mayo 2025 – Noviembre 2025</summary>
-
-<br>
-
-**El problema.** Eventos masivos con filas largas en el ingreso y un proceso de validación que no escalaba.
-
-**Lo que hice.**
-
-- Lideré el desarrollo integral de una nueva app de validación QR desde cero, incluyendo las decisiones de arquitectura.
-- Diseñé un sistema de *anillos de validación* para segmentar accesos, agilizando el ingreso y eliminando las filas.
-- Reestructuré los módulos críticos con Clean Architecture y SOLID, dejando la base lista para escalar.
-- Desarrollé la interfaz y la lógica de tótems de autoatención en modo kiosko para compra automatizada en pantallas fijas.
-- Implementé Coroutines y Flow para todo el manejo asíncrono, sin bloqueos de UI.
-- Ante la falta de un equipo de diseño, definí la interfaz y usabilidad en Figma.
-
-**Stack.** Kotlin · Jetpack Compose · Clean Architecture · Coroutines · Flow · CameraX + ML Kit · Hilt · Figma
-
-</details>
-
-<details>
-<summary><strong>Parking S.A.</strong> — Android Developer · Septiembre 2022 – Mayo 2025</summary>
-
-<br>
-
-**El contexto.** App en producción con código legado y usuarios activos a diario. Cero margen para caídas.
-
-**Lo que hice.**
-
-- Responsable de la mejora continua y del funcionamiento ininterrumpido de la app en producción.
-- Migré código legado a principios SOLID y Clean Code, mejorando la mantenibilidad del proyecto.
-- Actualicé la app a las versiones más recientes del SDK de Android para garantizar compatibilidad y seguridad.
-- Corregí errores críticos y optimicé rendimiento, reduciendo la tasa de crashes.
-- Implementé nuevas funcionalidades en Kotlin bajo estándares modernos.
-- Participé en la planificación de sprints y en decisiones técnicas bajo Scrum.
-
-**Stack.** Kotlin · Java · XML · MVVM · SOLID · Retrofit · Room
-
-</details>
-
-## Stack
-
-| Área | Herramientas |
-|---|---|
-| **Lenguajes** | Kotlin, Java |
-| **Android** | Jetpack Compose, XML, Android SDK, Navigation Component, Material Design |
-| **Arquitectura** | Clean Architecture, MVVM, MVI, Modularización, SOLID, Clean Code |
-| **Asincronía** | Coroutines, Flow, LiveData |
-| **Datos y red** | Retrofit, OkHttp, REST APIs, Room, DataStore, SharedPreferences, MySQL |
-| **Otros** | Hilt, CameraX, ML Kit, Coil, Firebase |
-| **Testing** | Unit Testing, UI Testing |
-| **Herramientas** | Git, GitHub, Android Studio, Figma |
-
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Coroutines">
-  <img src="https://img.shields.io/badge/Hilt-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Hilt">
-  <img src="https://img.shields.io/badge/Retrofit-3E4348?style=flat-square&logo=square&logoColor=white" alt="Retrofit">
-  <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Room">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-</p>
 
 ## Proyectos
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [**OverTime**](https://github.com/ricardosr4/OverTime) | Registro y cálculo de horas extra. | Kotlin |
-| [**MyProfileCompose**](https://github.com/ricardosr4/MyProfileCompose) | Perfil de usuario construido íntegramente en Compose. | Kotlin · Compose |
-| [**CrudFirebase**](https://github.com/ricardosr4/CrudFirebase) | CRUD completo sobre Firebase. | Kotlin · Firebase |
-| [**MyHelpCompose**](https://github.com/ricardosr4/MyHelpCompose) | App de ayuda con UI declarativa. | Kotlin · Compose |
-| [**SearchFriendsApp**](https://github.com/ricardosr4/SearchFriendsApp) | Búsqueda de contactos con consumo de API. | Kotlin · Retrofit |
-| [**RefactoringLifeSocial**](https://github.com/RefactoringLifeSocial/android) | App móvil de la plataforma de mascotas. Proyecto colaborativo. | Kotlin |
-
-## Formación
-
-- **Bootcamp Desarrollo de Aplicaciones Móviles** — SENCE · Mayo 2026 – Presente *(cursando)*
-- **Especialización en Jetpack Compose** — AristiDevs, Udemy · Febrero – Mayo 2025 *(certificado)*
-- **Bootcamp Desarrollo Android en Kotlin** — Refactory Life Academy · Marzo – Octubre 2024 *(egresado)*
-
-## GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardosr4&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estadísticas de GitHub" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosr4&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="160">
-</p>
-
-## Contacto
-
-- **Portafolio** — [rickdev-90632.web.app](https://rickdev-90632.web.app/)
-- **LinkedIn** — [ricardo-soto-ramirez](https://www.linkedin.com/in/ricardo-soto-ramirez)
-- **Email** — [ricardosr4@gmail.com](mailto:ricardosr4@gmail.com)
-
-<sub>Español (nativo) · Inglés A2 (en progreso)</sub>
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%" align="center">
+        <h3 align="center">OverTime</h3>
+        <a href="https://github.com/ricardosr4/OverTime" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardosr4&repo=OverTime&theme=algolia&hide_border=true" width="400" alt="OverTime">
+        </a>
+        <p align="center">
+          <a href="https://github.com/ricardosr4
