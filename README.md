@@ -145,7 +145,7 @@
 
 <p align="center">
 <a href="https://github.com/ricardosr4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosr4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosr4&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosr4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github&v=2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosr4&layout=compact&langs_count=8&theme=algolia&v=2"/>
 </a>
 </p>
