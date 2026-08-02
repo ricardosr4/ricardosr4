@@ -9,41 +9,17 @@
 [![Portafolio](https://img.shields.io/badge/Portafolio-rickdev-informational?style=social&logo=googlechrome)](https://rickdev-90632.web.app/)
 [![Email](https://img.shields.io/badge/Email-ricardosr4-red?style=social&logo=gmail)](mailto:ricardosr4@gmail.com)
 
-## Sobre mi
+## Sobre mi:
 
-- 📲 Android Developer nativo · +3 años en Kotlin
+- 📲 Android Developer 
 - 🏗️ Clean Architecture, MVVM, MVI y SOLID en proyectos reales
 - 🎟️ Lideré desde cero una app de validación QR para eventos masivos en [TickD](#experiencia)
-- 🅿️ Mantuve en producción la app de [Parking S.A.](#experiencia) durante casi 3 años
+- 🅿️ Mantuve en producción la app de [Parking S.A.](#experiencia)
 - 🤝 Colaboré en [RefactoringLifeSocial](https://github.com/RefactoringLifeSocial/android), la plataforma de mascotas
 - 🧑‍💻 Hoy trabajo como freelance construyendo apps y soluciones para pymes
 - 🇨🇱 Santiago, Chile
 <br>
 
-## Experiencia
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <h3 align="center">Freelance</h3>
-        <p align="center"><img src="https://img.shields.io/badge/Dic%202025%20--%20Presente-3DDC84?style=for-the-badge&logoColor=black"></p>
-        <p align="center">Apps Android nativas desde cero, soporte y optimización de apps existentes, y soluciones <strong>SaaS</strong> para digitalizar procesos de pymes y emprendedores.</p>
-      </td>
-      <td width="33%" align="center">
-        <h3 align="center">TickD</h3>
-        <p align="center"><img src="https://img.shields.io/badge/May%20--%20Nov%202025-7F52FF?style=for-the-badge&logoColor=white"></p>
-        <p align="center">Lideré la app de <strong>validación QR</strong> desde la primera línea. Sistema de <em>anillos de validación</em> para eliminar filas, y tótems de autoatención en <strong>modo kiosko</strong>.</p>
-      </td>
-      <td width="33%" align="center">
-        <h3 align="center">Parking S.A.</h3>
-        <p align="center"><img src="https://img.shields.io/badge/Sep%202022%20--%20May%202025-00AFFF?style=for-the-badge&logoColor=black"></p>
-        <p align="center">App en producción con usuarios diarios. Migré <strong>código legado a SOLID</strong>, actualicé el SDK y reduje la tasa de crashes.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
 
 ## Proyectos
 
