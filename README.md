@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://rickdev-90632.web.app/">Ricardo</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://rickdev-90632.web.app/">RickDev</a> 👋</h1>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=200&section=header&text=Ricardo%20Soto&fontSize=50&fontColor=ffffff&desc=Android%20Developer%20|%20Kotlin%20|%20Jetpack%20Compose&descSize=18&descAlignY=68">
@@ -144,12 +144,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ricardosr4">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ricardosr4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ricardosr4&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img width="495" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ricardosr4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
+<br>
+
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=ricardosr4&theme=dark&hide_border=true&locale=es"/>
+  <img width="495" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ricardosr4&layout=compact&langs_count=8&theme=algolia&card_width=495"/>
 </p>
