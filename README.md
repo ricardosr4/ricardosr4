@@ -29,7 +29,7 @@
       <td width="100%" align="center">
         <h3 align="center">OverTime</h3>
         <a href="https://github.com/ricardosr4/OverTime" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardosr4&repo=OverTime&theme=algolia&hide_border=true" width="400" alt="OverTime">
+          <img src="https://opengraph.githubassets.com/1/ricardosr4/OverTime" width="400" alt="OverTime">
         </a>
         <p align="center">
           <a href="https://github.com/ricardosr4/OverTime" target="_blank">
@@ -52,7 +52,7 @@
 <td width="50%">
 <h3 align="center">MyProfileCompose</h3>
 <div align="center">
-<a href="https://github.com/ricardosr4/MyProfileCompose" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardosr4&repo=MyProfileCompose&theme=algolia&hide_border=true" width="400" alt="MyProfileCompose"></a>
+<a href="https://github.com/ricardosr4/MyProfileCompose" target="_blank"><img src="https://opengraph.githubassets.com/1/ricardosr4/MyProfileCompose" width="400" alt="MyProfileCompose"></a>
 <p>
 <a href="https://github.com/ricardosr4/MyProfileCompose" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -65,7 +65,7 @@
 <td width="50%">
 <h3 align="center">MyHelpCompose</h3>
 <div align="center">
-<a href="https://github.com/ricardosr4/MyHelpCompose" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardosr4&repo=MyHelpCompose&theme=algolia&hide_border=true" width="400" alt="MyHelpCompose"></a>
+<a href="https://github.com/ricardosr4/MyHelpCompose" target="_blank"><img src="https://opengraph.githubassets.com/1/ricardosr4/MyHelpCompose" width="400" alt="MyHelpCompose"></a>
 <p>
 <a href="https://github.com/ricardosr4/MyHelpCompose" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -85,7 +85,7 @@
 <td width="50%">
 <h3 align="center">CrudFirebase</h3>
 <div align="center">
-<a href="https://github.com/ricardosr4/CrudFirebase" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardosr4&repo=CrudFirebase&theme=algolia&hide_border=true" width="400" alt="CrudFirebase"></a>
+<a href="https://github.com/ricardosr4/CrudFirebase" target="_blank"><img src="https://opengraph.githubassets.com/1/ricardosr4/CrudFirebase" width="400" alt="CrudFirebase"></a>
 <p>
 <a href="https://github.com/ricardosr4/CrudFirebase" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -98,7 +98,7 @@
 <td width="50%">
 <h3 align="center">SearchFriendsApp</h3>
 <div align="center">
-<a href="https://github.com/ricardosr4/SearchFriendsApp" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ricardosr4&repo=SearchFriendsApp&theme=algolia&hide_border=true" width="400" alt="SearchFriendsApp"></a>
+<a href="https://github.com/ricardosr4/SearchFriendsApp" target="_blank"><img src="https://opengraph.githubassets.com/1/ricardosr4/SearchFriendsApp" width="400" alt="SearchFriendsApp"></a>
 <p>
 <a href="https://github.com/ricardosr4/SearchFriendsApp" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -144,8 +144,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ricardosr4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosr4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github&v=2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosr4&layout=compact&langs_count=8&theme=algolia&v=2"/>
-</a>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardosr4&theme=github_dark"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardosr4&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=ricardosr4&theme=dark&hide_border=true&locale=es"/>
 </p>
