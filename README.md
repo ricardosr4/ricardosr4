@@ -11,15 +11,15 @@
 
 ## Sobre mi:
 
-- 📲 Android Developer 
+- 📲 Android Developer
 - 🏗️ Clean Architecture, MVVM, MVI y SOLID en proyectos reales
-- 🎟️ Lideré desde cero una app de validación QR para eventos masivos en [TickD](#experiencia)
-- 🅿️ Mantuve en producción la app de [Parking S.A.](#experiencia)
+- 🎟️ Lideré desde cero una app de validación QR para eventos masivos en TickD
+- 🅿️ Mantuve en producción la app de Parking S.A.
 - 🤝 Colaboré en [RefactoringLifeSocial](https://github.com/RefactoringLifeSocial/android), la plataforma de mascotas
 - 🧑‍💻 Hoy trabajo como freelance construyendo apps y soluciones para pymes
 - 🇨🇱 Santiago, Chile
-<br>
 
+<br>
 
 ## Proyectos
 
@@ -44,6 +44,7 @@
     </tr>
   </table>
 </div>
+
 <br>
 
 <table>
@@ -61,7 +62,6 @@
 <p>Pantalla de perfil construida <strong>íntegramente en Jetpack Compose</strong>. Estados, recomposición y UI declarativa sin una línea de XML.</p>
 </div>
 </td>
-
 <td width="50%">
 <h3 align="center">MyHelpCompose</h3>
 <div align="center">
@@ -77,6 +77,7 @@
 </td>
 </tr>
 </table>
+
 <br>
 
 <table>
@@ -94,7 +95,6 @@
 <p><strong>CRUD completo sobre Firebase</strong>: crear, leer, actualizar y eliminar en tiempo real desde Android.</p>
 </div>
 </td>
-
 <td width="50%">
 <h3 align="center">SearchFriendsApp</h3>
 <div align="center">
@@ -110,6 +110,7 @@
 </td>
 </tr>
 </table>
+
 <br>
 
 ## 🛠️ &nbsp;Stack
@@ -137,6 +138,7 @@
 <p align="center">
   <em>Clean Architecture · MVVM · MVI · Modularización · SOLID · Flow · LiveData · CameraX + ML Kit · Coil · DataStore · Unit & UI Testing</em>
 </p>
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
